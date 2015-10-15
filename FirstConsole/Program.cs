@@ -12,6 +12,7 @@ namespace FirstConsole
 		//DM Test 1
 		static void Main(string[] args)
 		{
+            int AdamWasNotHere = 0;
 			int dm = 0;
 		}
 	}
