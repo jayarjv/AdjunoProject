@@ -43,7 +43,7 @@
   <ItemGroup>
     <Compile Include="DavesClass.cs" />
     <Compile Include="ADClass.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="renamed.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

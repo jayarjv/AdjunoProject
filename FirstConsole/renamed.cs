@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FirstConsole
 {
-	class Program
+	class renamed
 	{
 		//first console
 		//DM Test 1
