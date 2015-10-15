@@ -41,7 +41,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DavesClass.cs" />
     <Compile Include="ADClass.cs" />
     <Compile Include="renamed.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
