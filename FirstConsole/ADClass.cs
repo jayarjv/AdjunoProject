@@ -11,6 +11,7 @@ namespace FirstConsole
         public ADClass()
         {
             // Constructor
+            // Change number 1
         }
     }
 }
