@@ -9,6 +9,7 @@ namespace FirstConsole
 	class Program
 	{
 		//first console
+		//DM Test 1
 		static void Main(string[] args)
 		{
 		}
