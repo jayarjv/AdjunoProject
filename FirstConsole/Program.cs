@@ -16,5 +16,15 @@ namespace FirstConsole
 			string abc = "third branch commit";
 
 		}
+
+        /// <summary>
+        /// ADFunction
+        /// </summary>
+        private void ADFunction()
+        {
+            Console.WriteLine("This is ADFunction");
+        }
+
+
 	}
 }
