@@ -18,6 +18,8 @@ namespace FirstConsole
 			string DM1 = "Fresh branch commit 1";
 
 			string DM2 = "Fresh branch commit 2";
+			string DM3 = "Fresh branch commit 3";
+
 
 		}
 	}
