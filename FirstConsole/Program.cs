@@ -13,23 +13,9 @@ namespace FirstConsole
 		static void Main(string[] args)
 		{
             int AdamWasNotHere = 0;
-			string abc = "third branch commit";
-
-			string DM1 = "Fresh branch commit 1";
-
-			string DM2 = "Fresh branch commit 2";
-			string DM3 = "Fresh branch commit 3";
-
+			string abc = "daves branch";
 
 		}
-
-        /// <summary>
-        /// ADFunction
-        /// </summary>
-        private void ADFunction()
-        {
-            Console.WriteLine("This is ADFunction");
-        }
 
 
 	}
