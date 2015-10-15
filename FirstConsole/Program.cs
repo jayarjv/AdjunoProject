@@ -15,6 +15,9 @@ namespace FirstConsole
             int AdamWasNotHere = 0;
 			string abc = "third branch commit";
 
+			string DM1 = "Fresh branch commit 1";
+
+
 		}
 	}
 }
