@@ -22,5 +22,15 @@ namespace FirstConsole
 
 
 		}
+
+        /// <summary>
+        /// ADFunction
+        /// </summary>
+        private void ADFunction()
+        {
+            Console.WriteLine("This is ADFunction");
+        }
+
+
 	}
 }
