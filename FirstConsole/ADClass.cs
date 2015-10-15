@@ -16,6 +16,7 @@ namespace FirstConsole
             // Change number 3
             // Change number 4
             // Change number 5
+            // Change number 6
         }
     }
 }
