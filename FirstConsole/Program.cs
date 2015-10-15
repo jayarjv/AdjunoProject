@@ -8,7 +8,7 @@ namespace FirstConsole
 {
 	class Program
 	{
-//first console
+		//first console
 		static void Main(string[] args)
 		{
 		}
